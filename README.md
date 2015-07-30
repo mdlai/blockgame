@@ -1,4 +1,5 @@
 # blockgame
+Run blockgame.py
 
 Controls:
 Space bar to start/restart
